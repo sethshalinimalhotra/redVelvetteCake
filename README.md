@@ -7,3 +7,7 @@ The colour is a deep red
 Its a soft texture
 ## Difficulty
 THis is easy to make
+## Ingredients
+[link](./ingredients.md)   
+## Recipie
+[link](./recipie.md)   
